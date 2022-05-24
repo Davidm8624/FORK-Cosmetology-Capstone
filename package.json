@@ -6,12 +6,6 @@
   "engines": {
     "node": "16.x"
   },
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
   "dependencies": {
     "ansi-styles": "^4.3.0",
     "axios": "^0.26.1",
